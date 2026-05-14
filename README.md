@@ -212,8 +212,8 @@ folium>=0.14.0
 ## 👤 Author
 
 Thinzar Su Hlaing
-- GitHub: [@yourusername](https://github.com/Thinzar2003)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/thinzar-su-hlaing-9b0361204/)
+- GitHub: [Thinzar2003](https://github.com/Thinzar2003)
+- LinkedIn: [Thinzar Su Hlaing](https://www.linkedin.com/in/thinzar-su-hlaing-9b0361204/)
 
 ---
 
